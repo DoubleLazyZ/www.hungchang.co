@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ZZ的筆記</title>
-    <link>https://hungchang.co/</link>
+    <link>/</link>
     <description>Recent content on ZZ的筆記</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>CC BY 4.0</copyright>
     <lastBuildDate>Fri, 14 Apr 2023 01:21:08 +0800</lastBuildDate>
     
-        <atom:link href="https://hungchang.co/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     
         <item>
         <title>學習Go</title>
-        <link>https://hungchang.co/posts/golang-learn_golang/</link>
+        <link>/posts/golang-learn_golang/</link>
         <pubDate>Fri, 14 Apr 2023 01:21:08 +0800</pubDate>
         
-        <guid>https://hungchang.co/posts/golang-learn_golang/</guid>
-        <description>ZZ的筆記 https://hungchang.co/posts/golang-learn_golang/ -&lt;p&gt;跟著影片學習 Go，學習的影片是在 YT 很紅的 Nana 的影片，以下附上連結。
+        <guid>/posts/golang-learn_golang/</guid>
+        <description>ZZ的筆記 /posts/golang-learn_golang/ -&lt;p&gt;跟著影片學習 Go，學習的影片是在 YT 很紅的 Nana 的影片，以下附上連結。
 &lt;a href=&#34;https://youtu.be/yyUHQIec83I&#34;&gt;Golang Tutorial for Beginners | Full Go Course&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;go-module&#34;&gt;Go Module&lt;/h2&gt;
 &lt;p&gt;一開始必須要在專案的資料夾裡面輸入&lt;/p&gt;
@@ -46,7 +46,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;或者直接在宣告變數的時候賦予值，這時候 Golang 擁有型別推斷的機制(Type Inference)，會自動根據你賦予的值來判斷變數類別。&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2;&#34;&gt;&lt;code class=&#34;language-golang&#34; data-lang=&#34;golang&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;myAge&lt;/span&gt; = &lt;span style=&#34;color:#ae81ff&#34;&gt;25&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;fmt&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;Printf&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;myAge type is %t&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;myAge&lt;/span&gt;) &lt;span style=&#34;color:#75715e&#34;&gt;// int
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;- https://hungchang.co/posts/golang-learn_golang/ - CC BY 4.0</description>
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;- /posts/golang-learn_golang/ - CC BY 4.0</description>
         </item>
     
     

@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hungchang.co/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2023-04-14T01:21:08+08:00</lastmod>
   </url><url>
-    <loc>https://hungchang.co/tags/golang/</loc>
+    <loc>/tags/golang/</loc>
     <lastmod>2023-04-14T01:21:08+08:00</lastmod>
   </url><url>
-    <loc>https://hungchang.co/categories/golang/</loc>
+    <loc>/categories/golang/</loc>
     <lastmod>2023-04-14T01:21:08+08:00</lastmod>
   </url><url>
-    <loc>https://hungchang.co/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2023-04-14T01:21:08+08:00</lastmod>
   </url><url>
-    <loc>https://hungchang.co/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2023-04-14T01:21:08+08:00</lastmod>
   </url><url>
-    <loc>https://hungchang.co/</loc>
+    <loc>/</loc>
     <lastmod>2023-04-14T01:21:08+08:00</lastmod>
   </url><url>
-    <loc>https://hungchang.co/posts/golang-learn_golang/</loc>
+    <loc>/posts/golang-learn_golang/</loc>
     <lastmod>2023-04-14T01:21:08+08:00</lastmod>
   </url>
 </urlset>
