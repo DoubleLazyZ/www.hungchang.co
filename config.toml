@@ -1,5 +1,5 @@
 theme = 'diary'
-baseURL = 'https://hungchang.co'
+baseURL = 'https://www.hungchang.co'
 title = 'ZZ的筆記'
 copyright = 'CC BY 4.0'
 DefaultContentLanguage = 'zh-hant'

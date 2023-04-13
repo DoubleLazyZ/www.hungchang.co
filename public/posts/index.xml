@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ZZ的筆記</title>
-    <link>https://hungchang.co/posts/</link>
+    <link>https://www.hungchang.co/posts/</link>
     <description>Recent content in Posts on ZZ的筆記</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>CC BY 4.0</copyright>
-    <lastBuildDate>Fri, 14 Apr 2023 01:21:08 +0800</lastBuildDate><atom:link href="https://hungchang.co/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Apr 2023 01:21:08 +0800</lastBuildDate><atom:link href="https://www.hungchang.co/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>學習Go</title>
-      <link>https://hungchang.co/posts/golang-learn_golang/</link>
+      <link>https://www.hungchang.co/posts/golang-learn_golang/</link>
       <pubDate>Fri, 14 Apr 2023 01:21:08 +0800</pubDate>
       
-      <guid>https://hungchang.co/posts/golang-learn_golang/</guid>
+      <guid>https://www.hungchang.co/posts/golang-learn_golang/</guid>
       <description>跟著影片學習 Go，學習的影片是在 YT 很紅的 Nana 的影片，以下附上連結。 Golang Tutorial for Beginners | Full Go Course
 Go Module 一開始必須要在專案的資料夾裡面輸入
 go mod init 這樣子就會新增一個 go.mod 會紀錄著有使用到的依賴模組和 Golang 的版本。
