@@ -37,7 +37,7 @@ enableReadingTime=true
 subtitle = "我是ZZ，一名前端工程師"
 enableLaTeX=true
 enableAutoDarkMode=true
-googleSearchCode = "https://cse.google.com/cse.js?cx=217a750bd65bc48de"
+googleSearchCode = "217a750bd65bc48de"
 
 enableGiscus = true
 [params.giscus]
