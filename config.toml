@@ -7,29 +7,27 @@ DefaultContentLanguage = 'zh-hant'
 
 [[menu.main]]
 url = "/posts"
-name = "Archive"
+name = "歸檔Archive"
 weight = 1
 
 [[menu.main]]
-url = "/tags"
-name = "Tags"
+url = "/categories"
+name = "分類Categories"
 weight = 2
 
 [[menu.main]]
-url = "/categories"
-name = "Categories"
+url = "/tags"
+name = "標籤Tags"
 weight = 3
+
 
 [[menu.main]]
 url = "/index.xml"
-name = "RSS Feed"
+name = "RSS"
 weight = 4
 
 
-
-
 googleAnalytics = "G-5G47PFM5MG"
-
 
 [params]
 favicon="/images/avatar.png"
@@ -40,20 +38,36 @@ enableLaTeX=true
 enableAutoDarkMode=true
 googleSearchCode = "217a750bd65bc48de"
 
+
+#enableGiscus = true
+#[params.giscus]
+#data-repo="DoubleLazyZ/Blog-Comments"
+#data-repo-id="R_kgDOJB5kKw"
+#data-category="Announcements"
+#data-category-id="DIC_kwDOJB5kK84CUbyH"
+#data-mapping="title"
+#data-strict="0"
+#data-reactions-enabled="1"
+#data-emit-metadata="0"
+#data-input-position="bottom"
+#data-theme="preferred_color_scheme"
+#data-lang="zh-TW"
+#crossorigin="anonymous"
+
 enableGiscus = true
 [params.giscus]
-    data-repo="DoubleLazyZ/Blog-Comments"
-    data-repo-id="R_kgDOJB5kKw"
-    data-category="Announcements"
-    data-category-id="DIC_kwDOJB5kK84CUbyH"
-    data-mapping="title"
-    data-strict="0"
-    data-reactions-enabled="1"
-    data-emit-metadata="0"
-    data-input-position="bottom"
-    data-theme="preferred_color_scheme"
-    data-lang="zh-TW"
-    crossorigin="anonymous"
+data_repo="DoubleLazyZ/Blog-Comments"
+data-repo-id="R_kgDOJB5kKw"
+data_category="Announcements"
+data_category_id="DIC_kwDOJB5kK84CUby"
+data_mapping="title"
+data_strict="0"
+data_reactions_enabled="1"
+data_emit_metadata="0"
+data_input_position="bottom"
+data_theme="preferred_color_scheme"
+data_lang="zh-TW"
+crossorigin="anonymous"
 
 [markup]
   [markup.highlight]

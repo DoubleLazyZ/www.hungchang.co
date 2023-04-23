@@ -7,6 +7,7 @@ featured_image: '/images/code.jpeg'
 tags: ['Golang']
 categories: 'Golang'
 title: '學習Go'
+comment: true
 ---
 
 跟著影片學習 Go，學習的影片是在 YT 很紅的 Nana 的影片，以下附上連結。
