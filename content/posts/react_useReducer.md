@@ -63,3 +63,5 @@ function App() {
 
 export default App
 ```
+上面的範例是直接將當下的資料去加上計數的結果直接帶入返回的 dispatch 函數中（在這裡是 setState) ，可以知道呼叫 dispatch函數
+其實是執行 countReducer 函數，並且把 dispatch 傳入的參數當成 Reducer 的第二個參數的值。接著 Reducer 返回的值將會更新畫面。
