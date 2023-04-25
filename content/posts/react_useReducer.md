@@ -65,3 +65,29 @@ export default App
 ```
 上面的範例是直接將當下的資料去加上計數的結果直接帶入返回的 dispatch 函數中（在這裡是 setState) ，可以知道呼叫 dispatch函數
 其實是執行 countReducer 函數，並且把 dispatch 傳入的參數當成 Reducer 的第二個參數的值。接著 Reducer 返回的值將會更新畫面。
+
+
+## useReducer 用法二，根據更新前的資料組合更新後的資料
+```jsx
+import * as React from 'react';
+
+function counterReducer(count, step) {
+  return count + step
+}
+
+function Counter({ initialCount = 0, step = 1 }) {
+  const [count, setCount] = React.useReducer(countReducer, initialCount)
+
+  const increment = () => setCount(step)
+
+  return <botton onClick={increment}>{count}</button>
+}
+
+function App() {
+  return <Counter />
+}
+
+export default App
+```
+
+第二個例子則可以發現
