@@ -6,7 +6,16 @@
     <description>Recent content in Tags on ZZ的筆記</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>CC BY 4.0</copyright>
-    <lastBuildDate>Fri, 14 Apr 2023 01:21:08 +0800</lastBuildDate><atom:link href="https://www.hungchang.co/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Apr 2023 02:14:08 +0800</lastBuildDate><atom:link href="https://www.hungchang.co/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>React</title>
+      <link>https://www.hungchang.co/tags/react/</link>
+      <pubDate>Sun, 23 Apr 2023 02:14:08 +0800</pubDate>
+      
+      <guid>https://www.hungchang.co/tags/react/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Golang</title>
       <link>https://www.hungchang.co/tags/golang/</link>
